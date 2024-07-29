@@ -13,6 +13,6 @@ Here is the default design criteria for PCR primers:
 - The amplicon should start with the forward primer sequence, the start of the amplicon's reverse complement should be the reverse primer.`;
 
 export const samplePhrases = [
-  "Please specify your design criteria for nucleic acid sequences.?",
-  "How many nucleic acid sequences do you need?",
+  "I want to design primers for PCR",
+  "I want to design DNA barcodes",
 ];
